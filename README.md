@@ -1,6 +1,6 @@
 # Little Esty Shop
 
-This project is an extension of the Little Esty Shop group project assigned in Mod 2 at Turing Schoool of Software and design. Little Esty Shop is a fictional e-commerce platform where merchants and admins can manage inventory and fulfill customer invoices. In this extension, I have added functionality for merchants to create bulk discounts for their items. A “bulk discount” is a discount based on the quantity of items the customer is buying, for example “20% off orders of 10 or more items”.
+This project is an extension of the Little Esty Shop group project assigned in Mod 2 at Turing School of Software and design. Little Esty Shop is a fictional e-commerce platform where merchants and admins can manage inventory and fulfill customer invoices. In this extension, I have added functionality for merchants to create bulk discounts for their items. A “bulk discount” is a discount based on the quantity of items the customer is buying, for example “20% off orders of 10 or more items”.
 
 ## Learning Goals
 - Write migrations to create tables and relationships between tables
